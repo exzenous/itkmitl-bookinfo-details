@@ -32,6 +32,12 @@ docker run -d --name details -p 8081:9080 details
 - ENABLE_EXTERNAL_BOOK_SERVICE : ```boolean```
 - DO_NOT_ENCRYPT : ```boolean```
 
+## How to run with Docker Compose
+
+```bash
+docker-compose up
+```
+
 ## Website
 
 [Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th)
